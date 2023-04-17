@@ -89,6 +89,7 @@ main form .categoria {
 }
 main form input[type=submit] {
     width: 190px;
+    font-weight: 900;
     height: 50px;
     cursor: pointer;
     margin-left: 37%;
